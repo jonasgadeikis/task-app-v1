@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "identifier": "1ee2a574-8b78-49a5-a089-b45a1de7d44e",
+      "name": "Test task 1",
+      "details": null,
+      "isStarred": true,
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "identifier": "cf26a022-c632-451d-8241-eb750c3dfcf9",
+      "name": "Test task 2",
+      "details": null,
+      "isStarred": true,
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "identifier": "6e1ff4da-5c29-4ffa-91f5-9f5358418dd2",
+      "name": "Test task 3",
+      "details": null,
+      "isStarred": true,
+      "isCompleted": false
+    }
+  ]
+}
